@@ -6,6 +6,10 @@
    created by NilsB
 */
 
+/*
+  Version 0.1 updated to allow 4 button rf trigger
+*/
+
 #include <Servo.h>
 
 int blinkTimerInMillies = 5;
